@@ -8,7 +8,7 @@ Original file is located at
 
 ## EDA done using manual methods
 """
-
+## all the code written in google colab
 # Mount Drive
 from google.colab import drive
 drive.mount('/content/drive')
